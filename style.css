@@ -1,0 +1,31 @@
+body{
+  background-color: #393E46;
+  text-align: center;
+}
+.mainheading{
+  font-size: 7rem;
+  font-family: 'Lobster', cursive;
+  margin: 2rem auto 2rem;
+  text-shadow: 5px 0 black;
+}
+.player1, .player2{
+  display: inline-block;
+}
+.players{
+  display: block;
+  font-size: 1.5rem;
+}
+.diceimage{
+  height: 10rem;
+  width: 10rem;
+}
+.footer{
+  color: #EEEEEE;
+  margin-top: 4rem;
+}
+.players, .mainheading{
+  color: #4ECCA3;
+}
+.players, .footer{
+  font-family: 'Indie Flower', cursive;
+}
